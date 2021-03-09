@@ -55,16 +55,22 @@ Final Cut Pro	fcp
 gfwlist	gfw
 GitHub Desktop	gh	1
 GitHub	gh	2
+github	git	1
+git	git	2
+git checkout gc 
 Gmail	gm
 Google	gg
-Google Pay	gp
-Google Play	gp	2
+Google Pay	gp 
+Google Play	gp 2
+git pull gp 3
 Google Voice	gv
 Gboard	gb
 Handoff	ho
 HyperSwitch	hs
 iCloud	ic
 Illustrator	ill
+import import 
+import imp 
 iStat Menus	ism
 iWork	iw	4
 iTunes	itunes
