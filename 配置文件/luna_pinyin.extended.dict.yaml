@@ -9,6 +9,20 @@ sort: by_weight                 # by_weight（按词频高低排序）或 origin
 use_preset_vocabulary: true     # true 或 false，选择是否导入预设词汇表【八股文】
 
 import_tables:
+  - clover.base
+  - clover.phrase
+  - THUOCL_animal
+  - THUOCL_caijing
+  - THUOCL_car
+  - THUOCL_chengyu
+  - THUOCL_diming
+  - THUOCL_food
+  - THUOCL_IT
+  - THUOCL_law
+  - THUOCL_lishimingren
+  - THUOCL_medical
+  - THUOCL_poem
+  - sogou_new_words
   - luna_pinyin
   - luna_pinyin.sogou
   - luna_pinyin.zonghe
